@@ -64,7 +64,7 @@ plot(t,r1);
 xlabel('Time (s)'),ylabel('Distance (m)');
 title('Position in Water');
 
-%Plotting graph for Force Water:
+%Plotting graph for Force in Water:
 subplot(2,2,3);
 plot(t,F1),xlabel('Time (s)'),ylabel('Force (N)');
 title('Force in Water');
