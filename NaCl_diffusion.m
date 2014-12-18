@@ -1,5 +1,5 @@
 %The following code simulates the motion of Na+ and Cl- ions in both
-%Benezene and water. The code will generate subplots of Force and
+%Benzene and water. The code will generate subplots of Force and
 %Displacement with respect to time in both Benezene and water.
 
 
