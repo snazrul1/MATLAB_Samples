@@ -1,3 +1,5 @@
+__author__='Sadat'
+
 %This code edits a file (phonenos.txt) of phone numbers. 
 %The phone numbers are stored in the following format:
 %6012425932
